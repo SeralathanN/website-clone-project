@@ -1,15 +1,24 @@
-# QuickBuy - E-Commerce Clothing Website
+# 👕 QuickBuy - E-Commerce Clothing Website
 
-QuickBuy is a simple and responsive e-commerce clothing store prototype built using HTML, CSS, and JavaScript. It includes key features like:
+**QuickBuy** is a simple and responsive front-end clone of a clothing e-commerce website. Built using **HTML**, **CSS**, and **JavaScript**, it provides a basic layout and interactive features ideal for learning and showcasing front-end development skills.
 
-- Responsive layout
-- Product search functionality
-- Category filters (Men/Women)
-- Basic cart indicator with item count
+---
 
-## 📁 Folder Structure
+## 🚀 Features
 
-```
+- ✅ **Responsive Design** – mobile-friendly and adapts to screen sizes
+- 🛒 **Cart Counter** – adds items to a visible cart counter
+- 🔍 **Search Filter** – live filtering by product name
+- 🗂️ **Category Filter** – filter items by Men / Women / All
+- 🖼️ **Image Grid** – displays clothing items with images and prices
+- 🧼 **Clean UI** – basic, modern styling easy to customize
+
+---
+
+## 🧾 Folder Structure
+
+
+
 quickbuy-ecommerce-clone/
 ├── index.html
 ├── style.css
@@ -17,22 +26,8 @@ quickbuy-ecommerce-clone/
 └── images/
 ```
 
-## 🖼️ Product Images
 
-You can place your own shirt or clothing images in the `images/` folder.
-
-## 🚀 How to Use
-
-1. Download the project or clone it from GitHub.
-2. Open `index.html` in your browser.
-3. Customize as needed!
-
-## 💡 Features to Add Next
-
-- Cart page
-- Product details page
-- Backend integration
 
 ---
 
-Made with ❤️ for educational purposes.
+
